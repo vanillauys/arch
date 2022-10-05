@@ -12,7 +12,6 @@ linux-headers
 noto-fonts-emoji
 usbutils
 xdg-user-dirs
---END OF MINIMAL INSTALL--
 docker
 tmux
 gnome-tweaks
@@ -98,3 +97,5 @@ zip
 zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
+--END OF MINIMAL INSTALL--
+firefox

@@ -8,10 +8,9 @@ nordic-darker-standard-buttons-theme
 ocs-url
 ttf-meslo
 vde2
-insomnia
 onlyoffice-bin
 teams
-dicsord
+discord
 gparted
 obs-studio
 spotify

@@ -1,4 +1,5 @@
 mesa
+npm
 xorg
 xorg-server
 xorg-apps
@@ -30,7 +31,6 @@ bridge-utils
 btrfs-progs
 celluloid
 cmatrix
-code
 cronie
 cups
 dialog
